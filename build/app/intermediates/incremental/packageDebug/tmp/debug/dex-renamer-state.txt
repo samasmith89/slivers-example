@@ -1,0 +1,4 @@
+#Thu Sep 15 13:25:47 CDT 2022
+base.0=/Users/ssmith32/Development/personal/rw/slivers-example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
